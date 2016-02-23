@@ -24,6 +24,9 @@ Event Horizon is the first HTML5 game I built for a game design class my senior
 year of college. The idea was to have a physics based arcade game that brought
 back of the fun of retro, high-score driven games.
 
+![Title](/assets/event_horizon_title.PNG){:height="300px" width="49%"}
+![Title](/assets/event_horizon_play.PNG){:height="300px" width="49%"}
+
 # MiniEditor
 [Github](https://github.com/ewickert/event-horizon)
 
