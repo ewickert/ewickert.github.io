@@ -11,6 +11,11 @@ Paxix is a compiler for an extended version of the Paxi programming language
 created by Prof. David Nordstrom at George Mason University. Paxix started as our
 class project, and we kept adding features to it, even after graduation.
 
+# Vim-paxix
+[Github](https://github.com/ewickert/vim-paxix)
+
+A vim plugin to provide syntax highlighting for the Paxix language.
+
 # Event Horizon [![Build Status](https://travis-ci.org/ewickert/event-horizon.svg?branch=master)](https://travis-ci.org/ewickert/event-horizon)
 [Github](https://github.com/ewickert/event-horizon)
 [Playable demo](https://ewickert.github.io/event-horizon)
