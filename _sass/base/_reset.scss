@@ -22,25 +22,24 @@ html {
 }
 @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts/cmunss.otf');
+    src: url('/assets/Fonts/cmunss.otf');
   }
   @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts/cmunsx.otf');
+    src: url('/assets/Fonts/cmunsx.otf');
     font-weight: bold;
   }
   @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts/cmunsi.otf');
+    src: url('/assets/Fonts/cmunsi.otf');
     font-style: italic, oblique;
   }
   @font-face {
     font-family: "Computer Modern";
-    src: url('/assets/fonts`/cmunbxo.otf');
+    src: url('/assets/Fonts/cmunbxo.otf');
     font-weight: bold;
     font-style: italic, oblique;
   }
-
 body {
   @include ff--sans-serif(400);
   -webkit-font-smoothing: antialiased;
