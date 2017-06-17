@@ -26,11 +26,3 @@ back of the fun of retro, high-score driven games.
 
 ![Title](/assets/event_horizon_title.PNG){:height="300px" width="49%"}
 ![Title](/assets/event_horizon_play.PNG){:height="300px" width="49%"}
-
-# MiniEditor
-[Github](https://github.com/ewickert/event-horizon)
-
-The first project I ever did with typescript. I was interested in building a 
-WYSIWYG html editor and wanted to see how hard it would be to implement it myself.
-I used this project to teach myself about the Node.js toolchain and better Javascript
-in general. MiniEditor was based off of [TinyEditor](http://www.scriptiny.com/2010/02/javascript-wysiwyg-editor/).
