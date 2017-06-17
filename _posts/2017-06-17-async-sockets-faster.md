@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prefering Asynchrnous Sockets in C#
+title: Prefering Asynchronous Sockets in C#
 ---
 
 # Introduction
